@@ -10,3 +10,6 @@ The VGG-19 model, consisting of 16 convolutional and 5 pooling layers, provides 
 
 To generate a new image that combines the content of a photograph with the style of a painting, we minimize a loss function that balances the content loss from one layer and the style loss from multiple layers. The weighting factors for content and style can be adjusted to achieve the desired artistic effect.
 
+## References
+
+https://arxiv.org/pdf/1508.06576
